@@ -5,8 +5,8 @@ function App() {
 
   return (
     <>
-     <Testimonials name="nikhil" text="good service"></Testimonials>
-     <Testimonials name= "john" text="good"></Testimonials>
+     <Testimonials name="nikhil" text="good"></Testimonials>
+     <Testimonials name= "sristee" text="good"></Testimonials>
     </>
   )
 }
